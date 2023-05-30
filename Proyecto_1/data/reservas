@@ -1,0 +1,4 @@
+fechaInit;fechaFinit;NumeroHabitacion;checkIn;huespedes
+12/05/2023;12/12/2023;00;true;123456,987654
+12/07/2023;12/09/2023;20;false;456789,654321,789123
+09/02/2023;19/02/2023;01;false;480398
